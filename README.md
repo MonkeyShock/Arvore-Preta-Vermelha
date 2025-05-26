@@ -79,5 +79,5 @@ For more details on the terms of use, please refer to the `LICENSE` file in the 
 
 This project was conceived and developed by:
 
-**Ryan Pablo Coelho Luiz**
+**MonkeyShock**
 GitHub: (https://github.com/MonkeyShock)
